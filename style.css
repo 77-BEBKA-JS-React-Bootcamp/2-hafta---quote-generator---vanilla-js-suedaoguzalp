@@ -1,0 +1,57 @@
+body{
+  background-image:url("https://media.istockphoto.com/vectors/black-and-white-checkered-background-vector-id903158822?k=6&m=903158822&s=170667a&w=0&h=g6H2RMXU5Xi4MN1BwU5YvNLB-uDOyY7whyDoWlAaZWg=");
+  background-size: cover;
+
+}
+.all {
+  font-size:20px ;
+  background-color: rgb(247, 183, 183);
+  position: center;
+  height : 245px;
+  width: 640px;
+  text-align: center;
+  border: 10px solid rgb(142, 142, 231);
+  border-radius: 5px;
+  border-style:solid;
+  margin-left: 385px;
+  margin-top: 260px;
+
+  
+}
+
+#baslik1 {
+  color:rgb(3, 3, 1);
+  padding-top: 30px;
+}
+
+.buttonarea{
+  background-color:white;
+  height : 25px;
+  position: relative;
+  
+}
+
+#kanye{
+  background-color: rgb(247, 183, 183);
+
+}
+#buttonkanye {
+  background-color: white;
+  border: 1px solid black;
+  border-radius:5px;
+  font-size:20px;
+}
+
+#buttontwitter{
+  margin-left: 10px;
+  background-color: white;
+  border: 1px solid black;
+  border-radius:5px;
+  font-size:20px;
+  /* text-decoration: none; */
+  
+}
+
+#twitterLink {
+  text-decoration: none;
+}
